@@ -23,9 +23,5 @@ jobs:
       - name: Install dependencies
         run: npm c1
 
-    name: Fix jest permissions
-        run: chmod +x ./node_modules/.bin/jest
-
-      - name: Run tests
-      run: npm test
-      ``````
+- name: Run tests
+        run: node ./node_modules/.bin/jest --coverage
