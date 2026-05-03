@@ -21,7 +21,11 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm c1
+
+    name: Fix jest permissions
+        run: chmod +x ./node_modules/.bin/jest
 
       - name: Run tests
-        run: npm test
+      run: npm test
+      ``````
