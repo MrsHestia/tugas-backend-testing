@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1777846654022" clover="3.2.0">
-  <project timestamp="1777846654022" name="All files">
+<coverage generated="1777854017179" clover="3.2.0">
+  <project timestamp="1777854017180" name="All files">
     <metrics statements="76" coveredstatements="66" conditionals="40" coveredconditionals="29" methods="16" coveredmethods="15" elements="132" coveredelements="110" complexity="0" loc="76" ncloc="76" packages="1" files="2" classes="2"/>
     <file name="app.js" path="C:\Users\ADVAN\Documents\SIGMA PRENEUR\New folder\src\app.js">
       <metrics statements="32" coveredstatements="24" conditionals="10" coveredconditionals="3" methods="5" coveredmethods="4"/>
